@@ -102,11 +102,3 @@ Author: Mykhailo Bobrov
 ## Acknowledgments
 
 Thanks to everyone who contributed, tested, and inspired the creation of this system!
-
----
-
-If you want, I can also help generate `.gitignore` files, CI/CD configs, or client examples in various languages.
-
----
-
-Would you like me to prepare a ready-to-upload Markdown file for GitHub?
